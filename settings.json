@@ -17,6 +17,15 @@
       "y": -250,
       "width": 200,
       "height": 400
+    },
+    {
+      "id": 3,
+      "name": "image_1738496408501.jpg",
+      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1738496408501.jpg",
+      "x": -350,
+      "y": -200,
+      "width": 400,
+      "height": 200
     }
   ]
 }
