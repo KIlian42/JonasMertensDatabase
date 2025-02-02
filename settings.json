@@ -1,23 +1,31 @@
 {
-    "images": [
-      {
-        "id": 1,
-        "name": "Bild 1",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/11.png",
-        "x": 100,
-        "y": 100,
-        "width": 100,
-        "height": 100
-      },
-      {
-        "id": 2,
-        "name": "Bild 2",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/11.png",
-        "x": 300,
-        "y": 100,
-        "width": 100,
-        "height": 100
-      }
-    ]
+  "images": [
+    {
+      "id": 1,
+      "name": "Bild 1",
+      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/11.png",
+      "x": 100,
+      "y": 100,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "id": 2,
+      "name": "Bild 2",
+      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/11.png",
+      "x": 300,
+      "y": 100,
+      "width": 100,
+      "height": 100
+    },
+    {
+      "id": 3,
+      "name": "image_1738482802188.png",
+      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/image_1738482802188.png",
+      "x": -210.76725277191275,
+      "y": -120.21102511860073,
+      "width": 100,
+      "height": 100
+    }
+  ]
 }
-  
