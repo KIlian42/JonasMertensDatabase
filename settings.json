@@ -1,5 +1,13 @@
 {
   "images": [
-
+    {
+      "id": 1,
+      "name": "image_1738495997554.jpg",
+      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1738495997554.jpg",
+      "x": -113,
+      "y": -130,
+      "width": 200,
+      "height": 400
+    }
   ]
 }
