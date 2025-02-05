@@ -7,7 +7,12 @@
       "x": -50,
       "y": -200,
       "width": 200,
-      "height": 400
+      "height": 400,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 2,
@@ -16,7 +21,12 @@
       "x": 300,
       "y": -200,
       "width": 200,
-      "height": 400
+      "height": 400,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 3,
@@ -25,7 +35,12 @@
       "x": -400,
       "y": -200,
       "width": 200,
-      "height": 400
+      "height": 400,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 4,
@@ -34,7 +49,12 @@
       "x": -150,
       "y": 650,
       "width": 300,
-      "height": 600
+      "height": 600,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 5,
@@ -43,7 +63,12 @@
       "x": 351.5558641817419,
       "y": 1030.7178493160434,
       "width": 300,
-      "height": 600
+      "height": 600,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 6,
@@ -52,7 +77,12 @@
       "x": -260.03650746521356,
       "y": 1452.3490074470978,
       "width": 300,
-      "height": 600
+      "height": 600,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 7,
@@ -61,7 +91,12 @@
       "x": -2483.4359699438583,
       "y": 548.359140790337,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 8,
@@ -70,7 +105,12 @@
       "x": -1875.0022350040992,
       "y": 307.3952853686503,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 9,
@@ -79,7 +119,12 @@
       "x": -3013.556451871569,
       "y": -138.38784716147012,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 10,
@@ -88,7 +133,12 @@
       "x": -2248.4962109077137,
       "y": -343.20712426990383,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 11,
@@ -97,7 +147,12 @@
       "x": -3103.917897654702,
       "y": 1132.6964901879273,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 12,
@@ -106,7 +161,12 @@
       "x": -1935.243198859521,
       "y": 1668.8410685011804,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 13,
@@ -115,7 +175,12 @@
       "x": -2531.6287410281957,
       "y": 1578.479622718048,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 14,
@@ -124,7 +189,12 @@
       "x": -3822.18430956793,
       "y": 481.27061823202706,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 15,
@@ -133,7 +203,12 @@
       "x": -3683.6300927004604,
       "y": 1945.126039918774,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 16,
@@ -142,7 +217,12 @@
       "x": -3900.4975625799784,
       "y": 1390.9091724488944,
       "width": 300,
-      "height": 600
+      "height": 600,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 17,
@@ -151,7 +231,12 @@
       "x": 1489.0415630271773,
       "y": 1971.851863557098,
       "width": 250,
-      "height": 500
+      "height": 500,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 18,
@@ -160,7 +245,12 @@
       "x": 1874.0986916950617,
       "y": 2330.2939612555956,
       "width": 900,
-      "height": 500
+      "height": 500,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 19,
@@ -169,7 +259,12 @@
       "x": 2127.7432220472674,
       "y": 1803.910294026509,
       "width": 600,
-      "height": 300
+      "height": 300,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 20,
@@ -178,7 +273,12 @@
       "x": 2893.5179093240126,
       "y": 2239.8146776249623,
       "width": 600,
-      "height": 400
+      "height": 400,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 21,
@@ -187,7 +287,12 @@
       "x": 1485.2679763331014,
       "y": 2977.9422562296563,
       "width": 600,
-      "height": 400
+      "height": 400,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 22,
@@ -196,7 +301,12 @@
       "x": 2322.6173739234628,
       "y": -594.3469003968494,
       "width": 600,
-      "height": 1200
+      "height": 1200,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 23,
@@ -205,7 +315,12 @@
       "x": 2063.5812293451495,
       "y": 580.3518947838734,
       "width": 1200,
-      "height": 600
+      "height": 600,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 24,
@@ -214,7 +329,12 @@
       "x": -1424.9999999999995,
       "y": -2187.722891566265,
       "width": 400,
-      "height": 800
+      "height": 800,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 25,
@@ -223,7 +343,12 @@
       "x": -768.3734939759033,
       "y": -1772.0602409638554,
       "width": 500,
-      "height": 1000
+      "height": 1000,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 26,
@@ -232,7 +357,12 @@
       "x": -69.57831325301177,
       "y": -1958.8072289156628,
       "width": 1000,
-      "height": 500
+      "height": 500,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 27,
@@ -241,7 +371,12 @@
       "x": 319.1760777817251,
       "y": 1877.6209246525489,
       "width": 300,
-      "height": 600
+      "height": 600,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 28,
@@ -250,7 +385,12 @@
       "x": 3343.6169624752047,
       "y": -4125.37406958209,
       "width": 500,
-      "height": 1000
+      "height": 1000,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 29,
@@ -259,7 +399,12 @@
       "x": 4311.440664895254,
       "y": -3458.085095808266,
       "width": 500,
-      "height": 1000
+      "height": 1000,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 30,
@@ -268,7 +413,12 @@
       "x": 3234.100069832936,
       "y": -2744.9518413934925,
       "width": 500,
-      "height": 1000
+      "height": 1000,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 31,
@@ -277,7 +427,12 @@
       "x": -3341.9233022583153,
       "y": -9956.92391634957,
       "width": 1000,
-      "height": 500
+      "height": 500,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 32,
@@ -286,7 +441,12 @@
       "x": -2540.718482981207,
       "y": -9119.57451875921,
       "width": 500,
-      "height": 1000
+      "height": 1000,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     },
     {
       "id": 33,
@@ -295,7 +455,12 @@
       "x": -3697.3449890053034,
       "y": -8987.044398277281,
       "width": 500,
-      "height": 1000
+      "height": 1000,
+      "rounded": "4px",
+      "zIndex": 1,
+      "objectFit": "fill",
+      "title": "A title",
+      "description": "A description."
     }
   ]
 }
