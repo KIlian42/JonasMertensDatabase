@@ -475,6 +475,20 @@
       "objectFit": "cover",
       "title": "",
       "description": "Hello"
+    },
+    {
+      "id": 35,
+      "name": "image_1738797234969.jpeg",
+      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1738797234969.jpeg",
+      "x": 5475.054884283334,
+      "y": 1243.2098079058944,
+      "width": 100,
+      "height": 100,
+      "rounded": "0px",
+      "zIndex": 1,
+      "objectFit": "cover",
+      "title": "",
+      "description": "Hello"
     }
   ]
 }
