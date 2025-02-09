@@ -379,20 +379,6 @@
       "description": "A description."
     },
     {
-      "id": 29,
-      "name": "image_1738498602779.jpg",
-      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1738498602779.jpg",
-      "x": 4311.440664895254,
-      "y": -3458.085095808266,
-      "width": 500,
-      "height": 700,
-      "border_radius": 4,
-      "z_index": 1,
-      "objectFit": "fill",
-      "title": "A title",
-      "description": "A description."
-    },
-    {
       "id": 30,
       "name": "image_1738498614701.jpg",
       "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1738498614701.jpg",
