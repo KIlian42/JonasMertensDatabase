@@ -8,7 +8,7 @@
       "y": -150,
       "width": 200,
       "height": 300,
-      "border_radius": 10,
+      "border_radius": 100,
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
