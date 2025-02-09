@@ -35,7 +35,7 @@
       "x": -400,
       "y": -200,
       "width": 200,
-      "height": 600,
+      "height": 300,
       "border_radius": 4,
       "z_index": 1,
       "objectFit": "fill",
