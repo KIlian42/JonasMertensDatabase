@@ -315,7 +315,7 @@
       "x": 2000,
       "y": 500,
       "width": 750,
-      "height": 500,
+      "height": 100,
       "border_radius": 4,
       "z_index": 1,
       "objectFit": "fill",
