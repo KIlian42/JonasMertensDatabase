@@ -419,6 +419,20 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description."
+    },
+    {
+      "id": 34,
+      "name": "image_1739479700464.jpeg",
+      "src": "",
+      "x": 4527.2937217576,
+      "y": 563.0843447325001,
+      "width": 500,
+      "height": 500,
+      "border_radius": 0,
+      "z_index": 1,
+      "objectFit": "fill",
+      "title": "",
+      "description": ""
     }
   ]
 }
