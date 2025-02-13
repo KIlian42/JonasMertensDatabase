@@ -447,6 +447,20 @@
       "objectFit": "fill",
       "title": "",
       "description": ""
+    },
+    {
+      "id": 36,
+      "name": "image_1739481492936.jpg",
+      "src": "",
+      "x": 687.9201038495977,
+      "y": 806.491038902906,
+      "width": 1000,
+      "height": 1000,
+      "border_radius": 0,
+      "z_index": 1,
+      "objectFit": "fill",
+      "title": "",
+      "description": ""
     }
   ]
 }
