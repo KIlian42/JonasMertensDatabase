@@ -419,48 +419,6 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description."
-    },
-    {
-      "id": 34,
-      "name": "image_1739148069106.jpeg",
-      "src": "",
-      "x": 2295.5871030407316,
-      "y": -1793.4501653988586,
-      "width": 400,
-      "height": 400,
-      "border_radius": 0,
-      "z_index": 1,
-      "objectFit": "fill",
-      "title": "",
-      "description": ""
-    },
-    {
-      "id": 35,
-      "name": "image_1739148339331.jpeg",
-      "src": "",
-      "x": -3936.9022812478465,
-      "y": -2002.4056996811655,
-      "width": 500,
-      "height": 500,
-      "border_radius": 0,
-      "z_index": 1,
-      "objectFit": "fill",
-      "title": "",
-      "description": ""
-    },
-    {
-      "id": 36,
-      "name": "image_1739221704317.jpg",
-      "src": "",
-      "x": 0,
-      "y": 0,
-      "width": 1000,
-      "height": 1000,
-      "border_radius": 0,
-      "z_index": 1,
-      "objectFit": "fill",
-      "title": "",
-      "description": ""
     }
   ]
 }
