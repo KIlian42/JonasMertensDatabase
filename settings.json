@@ -461,6 +461,20 @@
       "objectFit": "fill",
       "title": "",
       "description": ""
+    },
+    {
+      "id": 37,
+      "name": "image_1739481608057.jpg",
+      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/KIlian42/JonasMertensDatabase/images/image_1739481608057.jpg",
+      "x": 1054.6088306809645,
+      "y": 736.405745339579,
+      "width": 1000,
+      "height": 1000,
+      "border_radius": 0,
+      "z_index": 1,
+      "objectFit": "fill",
+      "title": "",
+      "description": ""
     }
   ]
 }
