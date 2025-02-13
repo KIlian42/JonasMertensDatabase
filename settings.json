@@ -421,20 +421,6 @@
       "description": "A description."
     },
     {
-      "id": 34,
-      "name": "image_1739481816292.jpg",
-      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1739481816292.jpg",
-      "x": -1196.6690082986468,
-      "y": 3205.673670648406,
-      "width": 1000,
-      "height": 1000,
-      "border_radius": 0,
-      "z_index": 1,
-      "objectFit": "fill",
-      "title": "",
-      "description": ""
-    },
-    {
       "id": 35,
       "name": "image_1739481870344.png",
       "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1739481870344.png",
