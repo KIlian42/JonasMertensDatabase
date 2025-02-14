@@ -12,7 +12,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "Natural concealed",
-      "description": "2022"
+      "description": "2022",
+      "project_page": false
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "Still waters",
-      "description": "2022"
+      "description": "2022",
+      "project_page": false
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "Flaming skin",
-      "description": "Geheimnisvoll in dunkler Glut, ein Netz aus Schatten, tief und ruht. Gezeichnet von der Zeit gepraegt, ein Echo, das in Wellen schlaegt. Es atmet heiss in rotem Schein, wie gluehend Eisen, rau und rein. Geheimnisvolle Muster ziehn, geflecht aus Feuer, wild und kuehn. Ein Wesen, das in Tiefen wacht, sein Leib umhuellt von dunkler Macht. Ein Drache oder eine Spur aus urzeitlicher Kreatur? Die Schuppen brennen, leben fort, erzaehlen stumm von einem Ort, wo Flammen tanzen, lichterloh, in feuriger, vergessner Show. Und wer es sieht, der spuert die Glut, die in der Stille brennen tut. Ein Raetsel, heiss, von Licht umwoben, in tiefer Nacht vom Feuer gehoben. (ChatGPT lol)"
+      "description": "Geheimnisvoll in dunkler Glut, ein Netz aus Schatten, tief und ruht. Gezeichnet von der Zeit gepraegt, ein Echo, das in Wellen schlaegt. Es atmet heiss in rotem Schein, wie gluehend Eisen, rau und rein. Geheimnisvolle Muster ziehn, geflecht aus Feuer, wild und kuehn. Ein Wesen, das in Tiefen wacht, sein Leib umhuellt von dunkler Macht. Ein Drache oder eine Spur aus urzeitlicher Kreatur? Die Schuppen brennen, leben fort, erzaehlen stumm von einem Ort, wo Flammen tanzen, lichterloh, in feuriger, vergessner Show. Und wer es sieht, der spuert die Glut, die in der Stille brennen tut. Ein Raetsel, heiss, von Licht umwoben, in tiefer Nacht vom Feuer gehoben. (ChatGPT lol)",
+      "project_page": false
     },
     {
       "id": 4,
@@ -54,7 +57,8 @@
       "z_index": 2,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 5,
@@ -68,7 +72,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 6,
@@ -82,7 +87,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 7,
@@ -96,7 +102,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 8,
@@ -110,7 +117,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 9,
@@ -124,7 +132,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 10,
@@ -138,7 +147,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 11,
@@ -152,7 +162,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 12,
@@ -166,7 +177,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 13,
@@ -180,7 +192,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 14,
@@ -194,7 +207,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 15,
@@ -208,7 +222,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 16,
@@ -222,7 +237,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 17,
@@ -236,7 +252,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 18,
@@ -250,7 +267,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 19,
@@ -264,7 +282,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 20,
@@ -278,7 +297,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 21,
@@ -292,7 +312,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 22,
@@ -306,7 +327,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 23,
@@ -320,7 +342,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 24,
@@ -334,7 +357,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 25,
@@ -348,7 +372,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 26,
@@ -362,7 +387,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 27,
@@ -376,7 +402,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 31,
@@ -390,7 +417,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 32,
@@ -404,7 +432,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     },
     {
       "id": 33,
@@ -418,7 +447,8 @@
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
-      "description": "A description."
+      "description": "A description.",
+      "project_page": false
     }
   ]
 }
