@@ -419,20 +419,6 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description."
-    },
-    {
-      "id": 34,
-      "name": "image_1739556455486.jpg",
-      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1739556455486.jpg",
-      "x": 396,
-      "y": -64,
-      "width": 500,
-      "height": 500,
-      "border_radius": 100,
-      "z_index": 1,
-      "objectFit": "fill",
-      "title": "Maui",
-      "description": "chillen"
     }
   ]
 }
