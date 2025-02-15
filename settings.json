@@ -13,7 +13,8 @@
       "objectFit": "fill",
       "title": "Natural concealed",
       "description": "2022",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
       "objectFit": "fill",
       "title": "Still waters",
       "description": "2022",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 3,
@@ -43,7 +45,8 @@
       "objectFit": "fill",
       "title": "Flaming skin",
       "description": "Geheimnisvoll in dunkler Glut, ein Netz aus Schatten, tief und ruht. Gezeichnet von der Zeit gepraegt, ein Echo, das in Wellen schlaegt. Es atmet heiss in rotem Schein, wie gluehend Eisen, rau und rein. Geheimnisvolle Muster ziehn, geflecht aus Feuer, wild und kuehn. Ein Wesen, das in Tiefen wacht, sein Leib umhuellt von dunkler Macht. Ein Drache oder eine Spur aus urzeitlicher Kreatur? Die Schuppen brennen, leben fort, erzaehlen stumm von einem Ort, wo Flammen tanzen, lichterloh, in feuriger, vergessner Show. Und wer es sieht, der spuert die Glut, die in der Stille brennen tut. Ein Raetsel, heiss, von Licht umwoben, in tiefer Nacht vom Feuer gehoben. (ChatGPT lol)",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 4,
@@ -58,7 +61,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 5,
@@ -73,7 +77,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 6,
@@ -88,7 +93,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 7,
@@ -103,7 +109,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 8,
@@ -118,7 +125,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 9,
@@ -133,7 +141,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 10,
@@ -148,7 +157,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 11,
@@ -163,7 +173,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 12,
@@ -178,7 +189,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 13,
@@ -193,7 +205,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 14,
@@ -208,7 +221,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 15,
@@ -223,7 +237,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 16,
@@ -238,7 +253,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 17,
@@ -253,7 +269,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 18,
@@ -268,7 +285,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 19,
@@ -283,7 +301,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 20,
@@ -298,7 +317,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 21,
@@ -313,7 +333,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 22,
@@ -328,7 +349,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 23,
@@ -343,7 +365,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 24,
@@ -358,7 +381,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 25,
@@ -373,7 +397,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 26,
@@ -388,7 +413,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 27,
@@ -403,7 +429,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 31,
@@ -418,7 +445,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 32,
@@ -433,7 +461,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     },
     {
       "id": 33,
@@ -448,7 +477,8 @@
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
-      "project_page": false
+      "project_page": false,
+      "visible": true
     }
   ]
 }
