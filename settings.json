@@ -13,7 +13,7 @@
       "objectFit": "fill",
       "title": "Natural concealed",
       "description": "2022",
-      "project_page": false,
+      "project_page": true,
       "visible": true
     },
     {
@@ -45,7 +45,7 @@
       "objectFit": "fill",
       "title": "Fluid of life",
       "description": "2022",
-      "project_page": true,
+      "project_page": false,
       "visible": true
     },
     {
