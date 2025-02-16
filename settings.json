@@ -43,7 +43,7 @@
       "border_radius": 4,
       "z_index": 1,
       "objectFit": "fill",
-      "title": "Game of Life",
+      "title": "Fluid of life",
       "description": "2022",
       "project_page": true,
       "visible": true
