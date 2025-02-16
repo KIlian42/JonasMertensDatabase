@@ -360,7 +360,7 @@
       "y": 500,
       "width": 750,
       "height": 500,
-      "border_radius": 4,
+      "border_radius": 1000,
       "z_index": 1,
       "objectFit": "fill",
       "title": "A title",
