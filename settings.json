@@ -497,22 +497,6 @@
       "visible": true
     },
     {
-      "id": 35,
-      "name": "image_1740060748243.jpeg",
-      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1740060748243.jpeg",
-      "x": -28186,
-      "y": 1000,
-      "width": 5000,
-      "height": 5000,
-      "border_radius": 200,
-      "z_index": 1,
-      "objectFit": "fill",
-      "title": "",
-      "description": "",
-      "project_page": false,
-      "visible": true
-    },
-    {
       "id": 36,
       "name": "image_1740060768351.png",
       "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1740060768351.png",
