@@ -393,7 +393,7 @@
       "width": 800,
       "height": 700,
       "border_radius": 4,
-      "z_index": 1,
+      "z_index": 2,
       "objectFit": "fill",
       "title": "A title",
       "description": "A description.",
