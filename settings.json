@@ -511,6 +511,22 @@
       "description": "",
       "project_page": false,
       "visible": true
+    },
+    {
+      "id": 36,
+      "name": "image_1740060768351.png",
+      "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1740060768351.png",
+      "x": -30115,
+      "y": -2134,
+      "width": 500,
+      "height": 500,
+      "border_radius": 0,
+      "z_index": 1,
+      "objectFit": "fill",
+      "title": "fasst",
+      "description": "qwrwrqe",
+      "project_page": false,
+      "visible": true
     }
   ]
 }
