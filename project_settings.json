@@ -1,5 +1,19 @@
 {
   "images": [
-
+    [
+      {
+        "id": "c47c0d13-f17e-44e4-89c6-d879c40190e8",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/c47c0d13-f17e-44e4-89c6-d879c40190e8.png",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
+        "visible": "Ja",
+        "subpage": ""
+      }
+    ]
   ]
 }
