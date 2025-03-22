@@ -3,7 +3,7 @@
     [
       {
         "id": 1,
-        "name": "image_1738498691722.jpg",
+        "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1738498691722.jpg",
         "width": 600,
         "height": 600,
@@ -18,6 +18,7 @@
     ],
     [
       {
+        "id": 2,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742116317240.png",
         "width": 600,
@@ -33,6 +34,7 @@
     ],
     [
       {
+        "id": 3,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742120210461.png",
         "width": 600,
@@ -46,6 +48,7 @@
         "subpage": ""
       },
       {
+        "id": 4,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742120211807.png",
         "width": 600,
@@ -59,6 +62,7 @@
         "subpage": ""
       },
       {
+        "id": 5,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742120213237.png",
         "width": 600,
@@ -72,6 +76,7 @@
         "subpage": ""
       },
       {
+        "id": 6,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742120214406.png",
         "width": 600,
@@ -87,6 +92,7 @@
     ],
     [
       {
+        "id": 7,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742125433958.png",
         "width": 600,
@@ -102,6 +108,7 @@
     ],
     [
       {
+        "id": 8,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742125555280.png",
         "width": 600,
@@ -117,6 +124,7 @@
     ],
     [
       {
+        "id": 9,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742145488408.png",
         "width": 600,
@@ -132,6 +140,7 @@
     ],
     [
       {
+        "id": 10,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742339159243.png",
         "width": 600,
@@ -145,6 +154,7 @@
         "subpage": ""
       },
       {
+        "id": 11,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742339161959.png",
         "width": 600,
@@ -158,6 +168,7 @@
         "subpage": ""
       },
       {
+        "id": 12,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742339164111.png",
         "width": 600,
@@ -173,6 +184,7 @@
     ],
     [
       {
+        "id": 13,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742666968779.png",
         "width": 600,
@@ -181,11 +193,12 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
       {
+        "id": 14,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742666972126.png",
         "width": 600,
@@ -194,11 +207,12 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
       {
+        "id": 15,
         "name": "",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/image_1742666976355.png",
         "width": 600,
@@ -207,7 +221,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       }
