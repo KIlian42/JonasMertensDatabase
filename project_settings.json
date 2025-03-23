@@ -3,7 +3,7 @@
     [
       {
         "id": "b3e88e16-ed0c-4210-8a07-41f61d5d2bc8",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/b3e88e16-ed0c-4210-8a07-41f61d5d2bc8.jpg?t=1742696270993",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/b3e88e16-ed0c-4210-8a07-41f61d5d2bc8.jpg?t=1742696359337",
         "width": 600,
         "height": 600,
         "padding": 10,
@@ -18,7 +18,7 @@
     [
       {
         "id": "423cf38b-d441-4a82-9e43-0b7d6757cfb7",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/423cf38b-d441-4a82-9e43-0b7d6757cfb7.jpg?t=1742696270993",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/423cf38b-d441-4a82-9e43-0b7d6757cfb7.jpg?t=1742696359338",
         "width": 600,
         "height": 600,
         "padding": 10,
@@ -33,7 +33,22 @@
     [
       {
         "id": "1e501a83-23c0-4bcc-9f8c-ce87dd536ccc",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/1e501a83-23c0-4bcc-9f8c-ce87dd536ccc.jpg",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/1e501a83-23c0-4bcc-9f8c-ce87dd536ccc.jpg?t=1742696359338",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
+        "visible": "Ja",
+        "subpage": ""
+      }
+    ],
+    [
+      {
+        "id": "2c7cb506-7902-414b-9a0e-55cbb84fcdad",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/2c7cb506-7902-414b-9a0e-55cbb84fcdad.jpg",
         "width": 600,
         "height": 600,
         "padding": 10,
