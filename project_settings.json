@@ -68,6 +68,21 @@
         "visible": "Ja",
         "subpage": ""
       }
+    ],
+    [
+      {
+        "id": "685924fd-1eaa-4fe0-b7ef-c6cf1e0d569a",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/685924fd-1eaa-4fe0-b7ef-c6cf1e0d569a.png",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
+        "visible": "Ja",
+        "subpage": ""
+      }
     ]
   ]
 }
