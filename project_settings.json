@@ -10,7 +10,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "GefÃƒÂ¼llt",
+        "objectFit": "GefÃƒÆ’Ã‚Â¼llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -23,7 +23,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "GefÃƒÂ¼llt",
+        "objectFit": "GefÃƒÆ’Ã‚Â¼llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -36,7 +36,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "GefÃƒÂ¼llt",
+        "objectFit": "GefÃƒÆ’Ã‚Â¼llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -49,7 +49,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "GefÃƒÂ¼llt",
+        "objectFit": "GefÃƒÆ’Ã‚Â¼llt",
         "visible": "Ja",
         "subpage": ""
       }
@@ -64,7 +64,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "GefÃ¼llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -77,7 +77,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "GefÃ¼llt",
         "visible": "Ja",
         "subpage": ""
       }
@@ -92,7 +92,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gef�llt",
+        "objectFit": "Gefüllt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -105,7 +105,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gef�llt",
+        "objectFit": "Gefüllt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -118,13 +118,54 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gef�llt",
+        "objectFit": "Gefüllt",
         "visible": "Ja",
         "subpage": ""
       },
       {
         "id": "793e71a5-ac74-4378-acba-aa4d2b475cff",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/793e71a5-ac74-4378-acba-aa4d2b475cff.png",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Gefüllt",
+        "visible": "Ja",
+        "subpage": ""
+      }
+    ],
+    [
+      {
+        "id": "0aa58ce5-647e-4e30-849b-f5d1f0db03ed",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/0aa58ce5-647e-4e30-849b-f5d1f0db03ed.png",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Gef�llt",
+        "visible": "Ja",
+        "subpage": ""
+      },
+      {
+        "id": "fdf70934-717b-4d61-ae69-7695bab217a8",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/fdf70934-717b-4d61-ae69-7695bab217a8.png",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Gef�llt",
+        "visible": "Ja",
+        "subpage": ""
+      },
+      {
+        "id": "2cf14060-6586-4595-abb1-7722259527af",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/2cf14060-6586-4595-abb1-7722259527af.png",
         "width": 600,
         "height": 600,
         "padding": 10,
