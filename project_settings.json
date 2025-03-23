@@ -1,19 +1,5 @@
 {
   "images": [
-    [
-      {
-        "id": "080a4f40-7a35-48b7-a8be-fa5cfc524fa7",
-        "src": "blob:http://localhost:5173/d72b3132-fcbd-42d8-b81b-4247c5a71d1a",
-        "width": 600,
-        "height": 600,
-        "padding": 10,
-        "border_radius": 10,
-        "title": "",
-        "description": "",
-        "objectFit": "Angepasst",
-        "visible": "Ja",
-        "subpage": ""
-      }
-    ]
+
   ]
 }
