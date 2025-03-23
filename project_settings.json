@@ -3,7 +3,22 @@
     [
       {
         "id": "6efb9d28-d834-4f3f-90d0-78b9f2b5b564",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/6efb9d28-d834-4f3f-90d0-78b9f2b5b564.jpg",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/6efb9d28-d834-4f3f-90d0-78b9f2b5b564.jpg?t=1742694686373",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
+        "visible": "Ja",
+        "subpage": ""
+      }
+    ],
+    [
+      {
+        "id": "ff9772af-dbfc-4a25-a486-37181ff0230a",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/refs/heads/main/images/ff9772af-dbfc-4a25-a486-37181ff0230a.jpg",
         "width": 600,
         "height": 600,
         "padding": 10,
