@@ -282,7 +282,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -295,7 +295,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -303,6 +303,60 @@
         "id": "b5886051-24b8-41fd-9e77-fd73e666165e",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/b5886051-24b8-41fd-9e77-fd73e666165e.png",
         "width": 700,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Gefï¿½llt",
+        "visible": "Ja",
+        "subpage": ""
+      }
+    ],
+    [
+      {
+        "id": "59455cb1-5da8-4888-a324-6ecf34ed4250",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/59455cb1-5da8-4888-a324-6ecf34ed4250.png",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Gefüllt",
+        "visible": "Ja",
+        "subpage": ""
+      },
+      {
+        "id": "4d4865c6-4bc6-4acf-91fd-7c14df161e69",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/4d4865c6-4bc6-4acf-91fd-7c14df161e69.png",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Gefüllt",
+        "visible": "Ja",
+        "subpage": ""
+      },
+      {
+        "id": "1adae2e8-f30c-49c7-b75c-4c14dd63d332",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/1adae2e8-f30c-49c7-b75c-4c14dd63d332.png",
+        "width": 600,
+        "height": 600,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Gefüllt",
+        "visible": "Ja",
+        "subpage": ""
+      },
+      {
+        "id": "008068ef-b24e-4d37-bf22-441122d78cec",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/008068ef-b24e-4d37-bf22-441122d78cec.png",
+        "width": 600,
         "height": 600,
         "padding": 10,
         "border_radius": 10,
