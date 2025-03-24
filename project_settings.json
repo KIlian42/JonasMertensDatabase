@@ -287,19 +287,6 @@
         "subpage": ""
       },
       {
-        "id": "889eddac-b74b-46c7-ba35-165f9cb43d35",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/889eddac-b74b-46c7-ba35-165f9cb43d35.png",
-        "width": 700,
-        "height": 600,
-        "padding": 10,
-        "border_radius": 10,
-        "title": "",
-        "description": "",
-        "objectFit": "Gefï¿½llt",
-        "visible": "Ja",
-        "subpage": ""
-      },
-      {
         "id": "b5886051-24b8-41fd-9e77-fd73e666165e",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/b5886051-24b8-41fd-9e77-fd73e666165e.png",
         "width": 700,
@@ -323,7 +310,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -336,7 +323,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -349,7 +336,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -362,7 +349,7 @@
         "border_radius": 10,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       }
