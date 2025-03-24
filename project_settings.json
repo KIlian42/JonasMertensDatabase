@@ -353,6 +353,34 @@
         "visible": "Ja",
         "subpage": ""
       }
+    ],
+    [
+      {
+        "id": "25df7254-79d2-46fa-ba57-fdf49dcfeb42",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/25df7254-79d2-46fa-ba57-fdf49dcfeb42.png",
+        "width": 600,
+        "height": 400,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
+        "visible": "Ja",
+        "subpage": ""
+      },
+      {
+        "id": "36cefa2b-db80-4d41-a709-84d79a8e13a2",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/36cefa2b-db80-4d41-a709-84d79a8e13a2.png",
+        "width": 600,
+        "height": 400,
+        "padding": 10,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Gefüllt",
+        "visible": "Ja",
+        "subpage": ""
+      }
     ]
   ]
 }
