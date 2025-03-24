@@ -211,19 +211,6 @@
     ],
     [
       {
-        "id": "59455cb1-5da8-4888-a324-6ecf34ed4250",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/59455cb1-5da8-4888-a324-6ecf34ed4250.png",
-        "width": 600,
-        "height": 600,
-        "padding": 10,
-        "border_radius": 10,
-        "title": "",
-        "description": "",
-        "objectFit": "Gef�llt",
-        "visible": "Ja",
-        "subpage": ""
-      },
-      {
         "id": "4d4865c6-4bc6-4acf-91fd-7c14df161e69",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/4d4865c6-4bc6-4acf-91fd-7c14df161e69.png",
         "width": 600,
