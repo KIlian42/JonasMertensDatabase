@@ -292,7 +292,7 @@
         "border_radius": 0,
         "title": "",
         "description": "",
-        "objectFit": "Vollständig",
+        "objectFit": "Vollstï¿½ndig",
         "visible": "Ja",
         "subpage": ""
       },
@@ -305,7 +305,7 @@
         "border_radius": 0,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -318,7 +318,7 @@
         "border_radius": 0,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
         "visible": "Ja",
         "subpage": ""
       },
@@ -331,7 +331,22 @@
         "border_radius": 0,
         "title": "",
         "description": "",
-        "objectFit": "Gefüllt",
+        "objectFit": "Gefï¿½llt",
+        "visible": "Ja",
+        "subpage": ""
+      }
+    ],
+    [
+      {
+        "id": "dfc5bb71-3a04-4f03-a508-17fe6715d810",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/dfc5bb71-3a04-4f03-a508-17fe6715d810.png",
+        "width": 700,
+        "height": 800,
+        "padding": 100,
+        "border_radius": 10,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
         "visible": "Ja",
         "subpage": ""
       }
