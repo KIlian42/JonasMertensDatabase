@@ -155,19 +155,6 @@
     ],
     [
       {
-        "id": "e04d2999-bae8-4f1f-bb67-8c47822e6c60",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/e04d2999-bae8-4f1f-bb67-8c47822e6c60.png",
-        "width": 700,
-        "height": 800,
-        "padding": 10,
-        "border_radius": 0,
-        "title": "",
-        "description": "",
-        "objectFit": "Vollst�ndig",
-        "visible": "Ja",
-        "subpage": ""
-      },
-      {
         "id": "aeef6f41-ccf3-41d3-bc57-a678168fd350",
         "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/aeef6f41-ccf3-41d3-bc57-a678168fd350.png",
         "width": 700,
