@@ -7,7 +7,7 @@
         "width": 600,
         "height": 600,
         "padding": 10,
-        "border_radius": 100,
+        "border_radius": 10,
         "title": "",
         "description": "",
         "objectFit": "Gefuellt",
