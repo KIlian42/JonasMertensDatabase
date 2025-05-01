@@ -1,25 +1,3 @@
 {
-  "images": [
-    [
-      {
-        "id": "b3e5c4c2-0f3d-4624-b226-b74ccb092e23",
-        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/b3e5c4c2-0f3d-4624-b226-b74ccb092e23.png",
-        "width": 600,
-        "height": 600,
-        "padding": 0,
-        "translateX": 0,
-        "translateY": 0,
-        "cropLeft": 0,
-        "cropRight": 0,
-        "cropTop": 0,
-        "cropBottom": 0,
-        "border_radius": 0,
-        "title": "",
-        "description": "",
-        "objectFit": "Gefuellt",
-        "visible": "Ja",
-        "subpage": ""
-      }
-    ]
-  ]
+  "images": []
 }
