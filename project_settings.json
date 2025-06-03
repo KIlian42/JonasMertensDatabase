@@ -1,5 +1,45 @@
 {
   "images": [
-    []
+    [],
+    [
+      {
+        "id": "e7b0b10b-998f-45d3-ad8e-a2052eae3294",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/e7b0b10b-998f-45d3-ad8e-a2052eae3294.png",
+        "width": 500,
+        "height": 750,
+        "padding": 50,
+        "translateX": 0,
+        "translateY": 0,
+        "cropLeft": 0,
+        "cropRight": 0,
+        "cropTop": 0,
+        "cropBottom": 0,
+        "border_radius": 0,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
+        "projectPage": "Nein",
+        "subpage": ""
+      },
+      {
+        "id": "30b04342-e3d5-4153-bfc0-2f3a8be39bea",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/30b04342-e3d5-4153-bfc0-2f3a8be39bea.png",
+        "width": 500,
+        "height": 750,
+        "padding": 50,
+        "translateX": 0,
+        "translateY": 0,
+        "cropLeft": 0,
+        "cropRight": 0,
+        "cropTop": 0,
+        "cropBottom": 0,
+        "border_radius": 0,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
+        "projectPage": "Nein",
+        "subpage": ""
+      }
+    ]
   ]
 }
