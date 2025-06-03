@@ -61,6 +61,27 @@
         "projectPage": "Ja",
         "subpage": ""
       }
+    ],
+    [
+      {
+        "id": "6f413914-b621-4e46-82ed-ed5bd30b6d9c",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/6f413914-b621-4e46-82ed-ed5bd30b6d9c.png",
+        "width": 600,
+        "height": 100,
+        "padding": 0,
+        "translateX": 0,
+        "translateY": 0,
+        "cropLeft": 0,
+        "cropRight": 0,
+        "cropTop": 0,
+        "cropBottom": 0,
+        "border_radius": 0,
+        "title": "",
+        "description": "",
+        "objectFit": "Gefuellt",
+        "projectPage": "Ja",
+        "subpage": ""
+      }
     ]
   ]
 }
