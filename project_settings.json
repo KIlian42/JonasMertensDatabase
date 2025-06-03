@@ -97,8 +97,8 @@
         "cropTop": 0,
         "cropBottom": 0,
         "border_radius": 0,
-        "title": "",
-        "description": "",
+        "title": "hallo",
+        "description": "Bildbeschreibung",
         "objectFit": "Angepasst",
         "projectPage": "Ja",
         "subpage": ""
