@@ -124,6 +124,46 @@
         "projectPage": "Ja",
         "subpage": ""
       }
+    ],
+    [
+      {
+        "id": "f5e86160-d55b-4686-8f2b-747443e82faf",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/f5e86160-d55b-4686-8f2b-747443e82faf.png",
+        "width": 500,
+        "height": 750,
+        "padding": 50,
+        "translateX": 0,
+        "translateY": 50,
+        "cropLeft": 0,
+        "cropRight": 0,
+        "cropTop": 0,
+        "cropBottom": 0,
+        "border_radius": 0,
+        "title": "",
+        "description": "",
+        "objectFit": "Angepasst",
+        "projectPage": "Ja",
+        "subpage": ""
+      },
+      {
+        "id": "b1c9325d-56ef-47ef-918b-a9d43bb88f90",
+        "src": "https://raw.githubusercontent.com/KIlian42/JonasMertensDatabase/main/images/b1c9325d-56ef-47ef-918b-a9d43bb88f90.png",
+        "width": 500,
+        "height": 750,
+        "padding": 50,
+        "translateX": 0,
+        "translateY": 50,
+        "cropLeft": 0,
+        "cropRight": 0,
+        "cropTop": 0,
+        "cropBottom": 0,
+        "border_radius": 0,
+        "title": "",
+        "description": "",
+        "objectFit": "Gefuellt",
+        "projectPage": "Ja",
+        "subpage": ""
+      }
     ]
   ]
 }
