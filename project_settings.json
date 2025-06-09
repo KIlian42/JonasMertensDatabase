@@ -8,7 +8,7 @@
         "width": 500,
         "height": 750,
         "padding": 50,
-        "translateX": 0,
+        "translateX": 50,
         "translateY": 0,
         "cropLeft": 0,
         "cropRight": 0,
